@@ -1,0 +1,8 @@
+{
+  "name": "png",
+  "description": "PNG.js, packed for Meteor.",
+  "homepage": "https://github.com/and-fri/meteor-png",
+  "author": "Andrej Fritz",
+  "version": "0.0.1",
+  "git": "https://github.com/and-fri/meteor-png.git"
+}
