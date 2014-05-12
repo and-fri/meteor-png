@@ -6,5 +6,5 @@ Npm.depends({
 });
 Package.on_use(function(api) {
   api.add_files('include-png.js', ['server']);
-  api.export(['Png'], server);
+  api.export(['Png'], 'server');
 });
