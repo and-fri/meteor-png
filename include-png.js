@@ -1,1 +1,1 @@
-var Png = Npm.require('png');
+var PNG = Npm.require('node-png');
