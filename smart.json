@@ -1,8 +1,0 @@
-{
-  "name": "png",
-  "description": "Simple PNG encoder/decoder for Node.js with no native dependencies.",
-  "homepage": "https://github.com/and-fri/meteor-png",
-  "author": "Andrej Fritz",
-  "version": "0.0.2",
-  "git": "https://github.com/and-fri/meteor-png.git"
-}
